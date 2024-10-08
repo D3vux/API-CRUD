@@ -1,1 +1,1 @@
-Api Crud modelo en capaz con C#, sin db
+Api Crud basico con C#, sin db
