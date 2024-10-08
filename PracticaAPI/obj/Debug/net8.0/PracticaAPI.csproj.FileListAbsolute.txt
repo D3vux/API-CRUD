@@ -1,0 +1,76 @@
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\PracticaAPI.exe
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\PracticaAPI.deps.json
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\PracticaAPI.runtimeconfig.json
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\PracticaAPI.dll
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\PracticaAPI.pdb
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.csproj.AssemblyReference.cache
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.AssemblyInfoInputs.cache
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.AssemblyInfo.cs
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets\msbuild.PracticaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PracticaAPI.props
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PracticaAPI.props
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PracticaAPI.props
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\scopedcss\bundle\PracticaAPI.styles.css
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\Practica.6C4D0EFA.Up2Date
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.dll
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\refint\PracticaAPI.dll
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.pdb
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.genruntimeconfig.cache
+C:\Users\PC-BONITA\source\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\ref\PracticaAPI.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\PracticaAPI.exe
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\PracticaAPI.deps.json
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\PracticaAPI.runtimeconfig.json
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\PracticaAPI.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\PracticaAPI.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\API.Busines.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\API.DataAccess.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\API.Entity.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\API.Busines.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\API.Entity.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\bin\Debug\net8.0\API.DataAccess.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.csproj.AssemblyReference.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.AssemblyInfoInputs.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.AssemblyInfo.cs
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.csproj.CoreCompileInputs.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets\msbuild.PracticaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PracticaAPI.props
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PracticaAPI.props
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PracticaAPI.props
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\scopedcss\bundle\PracticaAPI.styles.css
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\Practica.6C4D0EFA.Up2Date
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\refint\PracticaAPI.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\PracticaAPI.genruntimeconfig.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\PracticaAPI\obj\Debug\net8.0\ref\PracticaAPI.dll

@@ -1,0 +1,12 @@
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\bin\Debug\net8.0\API.Entity.deps.json
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\bin\Debug\net8.0\API.Entity.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\bin\Debug\net8.0\API.Entity.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\obj\Debug\net8.0\API.Entity.csproj.AssemblyReference.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\obj\Debug\net8.0\API.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\obj\Debug\net8.0\API.Entity.AssemblyInfoInputs.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\obj\Debug\net8.0\API.Entity.AssemblyInfo.cs
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\obj\Debug\net8.0\API.Entity.csproj.CoreCompileInputs.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\obj\Debug\net8.0\API.Entity.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\obj\Debug\net8.0\refint\API.Entity.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\obj\Debug\net8.0\API.Entity.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Entity\obj\Debug\net8.0\ref\API.Entity.dll
