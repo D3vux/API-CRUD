@@ -1,0 +1,17 @@
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\bin\Debug\net8.0\API.Busines.deps.json
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\bin\Debug\net8.0\API.Busines.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\bin\Debug\net8.0\API.Busines.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\bin\Debug\net8.0\API.DataAccess.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\bin\Debug\net8.0\API.Entity.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\bin\Debug\net8.0\API.DataAccess.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\bin\Debug\net8.0\API.Entity.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\obj\Debug\net8.0\API.Busines.csproj.AssemblyReference.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\obj\Debug\net8.0\API.Busines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\obj\Debug\net8.0\API.Busines.AssemblyInfoInputs.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\obj\Debug\net8.0\API.Busines.AssemblyInfo.cs
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\obj\Debug\net8.0\API.Busines.csproj.CoreCompileInputs.cache
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\obj\Debug\net8.0\API.Busi.99074290.Up2Date
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\obj\Debug\net8.0\API.Busines.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\obj\Debug\net8.0\refint\API.Busines.dll
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\obj\Debug\net8.0\API.Busines.pdb
+C:\Users\KOU\Desktop\APIS C#\repos_3\repos\PracticaAPI\API.Busines\obj\Debug\net8.0\ref\API.Busines.dll
